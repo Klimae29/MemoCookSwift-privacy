@@ -1,3 +1,7 @@
+
+🇫🇷 Version française disponible ici :  
+[Politique de confidentialité (FR)](PRIVACY_POLICY_FR.md)
+
 # Privacy Policy
 
 _Last update: 2026-01-21_
